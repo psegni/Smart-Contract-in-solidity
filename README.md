@@ -1,5 +1,8 @@
 # Solidity Course Smart Contract
 
+Group Members                    ID
+1. Belayneh sewareg            ugr/23940/13
+
 Welcome to our collaborative repository for the Solidity course assignment! In this repository, we document our journey through the Solidity course offered by Alchemy University or Cyfrin Updraft, as assigned by our teacher.
 
 ## Assignment Overview
