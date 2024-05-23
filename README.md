@@ -1,4 +1,4 @@
-# Solidity Course group Assignment
+# Solidity Course Smart Contract
 
 Welcome to our collaborative repository for the Solidity course assignment! In this repository, we document our journey through the Solidity course offered by Alchemy University or Cyfrin Updraft, as assigned by our teacher.
 
